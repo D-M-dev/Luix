@@ -75,7 +75,7 @@ counter:set(counter:get() + 1)
 
 ## Documentation
 
-See the full documentation at the [Luix Docs](./docs/index.html) page.
+See the full documentation at the [Luix Docs](https://luixrbx.netlify.app/) page.
 
 ## License
 
